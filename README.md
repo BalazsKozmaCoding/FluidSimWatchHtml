@@ -5,7 +5,7 @@ customized for mobile platforms with accelerometer and touch input.
 
 ## Demo
 
- - [Try the simulation in your browser on your mobile](https://balazskozmacoding.github.io/FluidSimWatchHtml/fluid_sim_watch.html)
+ - [Try the simulation in your browser on your mobile](https://balazskozmacoding.github.io/fluid_sim_html_watch/fluid_sim_watch.html)
 
 ## Credits
 
